@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestPro</string>
+    <string name="Signup">สมัครสมาชิก</string>
+    <string name="Singin">Sing IN</string>
+</resources>
